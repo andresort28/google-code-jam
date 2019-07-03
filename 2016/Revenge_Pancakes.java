@@ -1,4 +1,4 @@
-package googlecodejam;
+package googlecodejam.c2016;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -6,9 +6,8 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.util.Hashtable;
 
-public class Revenge_Pancakes_2016 {
+public class Revenge_Pancakes {
 
 
 	public static void main(String[] args) throws Exception

@@ -1,4 +1,4 @@
-package googlecodejam;
+package googlecodejam.c2016;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -7,9 +7,8 @@ import java.io.FileOutputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.Hashtable;
-import java.util.StringTokenizer;
 
-public class Counting_Sheep_2016 {
+public class Counting_Sheep {
 	
 	public final static Hashtable<String, String> table = new Hashtable<String, String>();
 

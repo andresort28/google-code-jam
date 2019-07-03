@@ -1,4 +1,4 @@
-package googlecodejam;
+package googlecodejam.c2015;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

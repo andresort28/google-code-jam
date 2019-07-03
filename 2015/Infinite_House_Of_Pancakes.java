@@ -1,4 +1,4 @@
-package googlecodejam;
+package googlecodejam.c2015;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -6,14 +6,9 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.StringTokenizer;
 
-import javax.swing.text.html.MinimalHTMLWriter;
-
-public class Infinite_House_of_Pancakes_2015 {
+public class Infinite_House_Of_Pancakes {
 
 	public static void main(String[] args) throws Exception
 	{
