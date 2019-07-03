@@ -5,5 +5,5 @@ My accepted solutions in https://codingcompetitions.withgoogle.com/codejam
 Github is all about contributions. If you think you can collaborate or improve this, please make sure you send me a pull request
 
 ## License
-Copyright (c) 2019 [Andres Ortiz](https://www.linkedin.com/in/andresortiz28/)Copyright (c) 2019 [Andres Ortiz](https://www.linkedin.com/in/andresortiz28/)
-Licensed under the MIT license.
+Copyright (c) 2019 [Andres Ortiz](https://www.linkedin.com/in/andresortiz28/)
+Licensed under the MIT license
